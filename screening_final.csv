@@ -1,0 +1,61 @@
+firm_id,area,website_found,describes_data_or_analytics_services,two_plus_named_people,appears_active,qualifies,type
+F01,Rest of UK,N,N,N,N,N,
+F02,Rest of UK,Y,Y,N,Y,N,
+F03,Rest of UK,N,N,N,N,N,
+F04,Rest of UK,Y,Y,N,N,N,
+F05,Rest of UK,N,N,N,N,N,
+F06,Rest of UK,Y,Y,N,N,N,
+F07,Rest of UK,N,N,N,Y,N,
+F08,Rest of UK,N,N,N,N,N,
+F09,Rest of UK,N,N,N,N,N,
+F10,Rest of UK,N,N,N,N,N,
+F11,Rest of UK,N,N,N,N,N,
+F12,Rest of UK,Y,Y,N,Y,N,
+F13,Rest of UK,Y,Y,Y,Y,Y,Independent small firm
+F14,Rest of UK,N,N,N,Y,N,
+F15,Rest of UK,Y,Y,Y,Y,Y,Independent small firm
+F16,Rest of UK,Y,Y,N,Y,N,
+F17,Rest of UK,N,Y,Y,Y,N,
+F18,London,Y,Y,Y,Y,Y,Subsidiary of larger group
+F19,London,Y,Y,Y,Y,Y,Independent small firm
+F20,London,Y,N,Y,Y,N,Not a data business
+F21,London,N,Y,N,N,N,
+F22,London,N,Y,Y,Y,N,
+F23,London,Y,Y,N,Y,N,
+F24,London,Y,Y,Y,Y,Y,Independent small firm
+F25,London,Y,Y,Y,Y,Y,Independent small firm
+F26,London,N,N,N,N,N,
+F27,London,N,N,N,Y,N,
+F28,London,Y,Y,N,Y,N,Independent small firm
+F29,London,Y,Y,Y,N,N,
+F30,London,Y,N,Y,Y,N,Not a data business
+F31,London,Y,N,Y,Y,N,Not a data business
+F32,London,Y,N,Y,Y,N,Independent small firm
+F33,London,N,N,Y,Y,N,Not a data business
+F34,London,Y,Y,Y,Y,Y,Subsidiary of larger group
+F35,London,Y,Y,Y,Y,Y,Independent small firm
+F36,London,Y,Y,Y,Y,Y,Independent small firm
+F37,London,N,Y,N,Y,N,
+F38,London,Y,Y,Y,Y,Y,Independent small firm
+F39,London,Y,Y,Y,Y,Y,Independent small firm
+F40,London,N,Y,N,Y,N,
+F41,London,Y,Y,Y,Y,Y,Independent small firm
+F42,London,Y,Y,Y,Y,Y,Independent small firm
+F43,London,N,N,N,N,N,
+F44,London,Y,Y,Y,Y,Y,Independent small firm
+F45,London,Y,Y,Y,Y,Y,Independent small firm
+F46,London,Y,Y,Y,Y,Y,Independent small firm
+F47,London,N,Y,Y,Y,N,
+F48,Rest of UK,N,N,N,N,N,
+F49,Rest of UK,Y,Y,Y,N,N,
+F50,Rest of UK,Y,Y,Y,Y,Y,Independent small firm
+F51,Rest of UK,Y,Y,Y,Y,Y,Independent small firm
+F52,Rest of UK,N,N,N,Y,N,
+F53,Rest of UK,Y,N,Y,Y,N,Not a data business
+F54,Rest of UK,N,N,N,Y,N,
+F55,Rest of UK,Y,Y,Y,Y,Y,Independent small firm
+F56,Rest of UK,N,N,N,Y,N,
+F57,Rest of UK,Y,N,Y,Y,N,Not a data business
+F58,Rest of UK,Y,N,Y,Y,N,Not a data business
+F59,Rest of UK,N,N,N,Y,N,
+F60,Rest of UK,N,Y,N,Y,N,

@@ -1,0 +1,9 @@
+Order,Stage,Firms
+1,Rows in snapshot,5711779
+2,Active companies,5179256
+3,Matched SIC and name filters,6060
+4,After removing shared addresses,4683
+5,Screening pool (incorporated 2019-2024),1395
+6,Random sample,60
+7,Met all four criteria,19
+8,Of which independent small firms,17
