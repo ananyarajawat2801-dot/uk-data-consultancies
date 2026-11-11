@@ -61,17 +61,17 @@ A firm **qualifies** only if all four are Yes. Firms that qualified were then ty
 | File | Purpose |
 |---|---|
 | `load_data.py` | Loads the snapshot into SQLite |
-| `sql/` | Cleaning, filtering, shared-address and sampling queries |
-| `outputs/` | Aggregated result tables used in the report |
+| `01_build_clean_table.sql` to `05_analysis_queries.sql` | SQL scripts, run in numbered order |
+| `growth_by_year.csv`, `growth_compare.csv`, `top_towns_clean.csv`, `core_sic_codes.csv`, `funnel.csv` | Aggregated result tables used in the report (`growth_by_year.csv` is before shared addresses were removed) |
 | `screening_final.csv` | Screening results for the 60 sampled firms by anonymised firm ID (company names and numbers withheld) |
-| `report/uk_data_consultancies.pdf` | Export of the Power BI report |
+| `uk_data_consultancies.pdf` | Export of the Power BI report |
 
 The raw snapshot is not included. Download it from the Companies House Free Company Data Product page and check the licence terms there.
 
 ## How to reproduce
 1. Download the snapshot and place the zip in `data/`.
 2. Run `py load_data.py`.
-3. Run the SQL files in `sql/` in the order they are numbered.
+3. Run the numbered SQL files (01 to 05) in order
 4. Open the Power BI file and refresh.
 
-*Author: [your name]. Last updated: November 2026.*
+*Author: Ananya Rajawat. Last updated: November 2026.*
